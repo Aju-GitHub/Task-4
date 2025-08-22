@@ -1,5 +1,5 @@
-# Nmap 7.94SVN scan initiated Fri Jan 17 21:20:32 2025 as: nmap -p- -oN metasploitable_scan.txt 192.168.1.37
-Nmap scan report for 192.168.1.37
+# Nmap 7.94SVN scan initiated Fri Jan 17 21:20:32 2025 as: nmap -p- -oN metasploitable_scan.txt 192.xxx.x.xx
+Nmap scan report for 192.xxx.x.xx
 Host is up (0.00098s latency).
 Not shown: 65505 closed tcp ports (reset)
 PORT      STATE SERVICE
@@ -36,3 +36,4 @@ PORT      STATE SERVICE
 MAC Address: 08:00:27:98:C9:7E (Oracle VirtualBox virtual NIC)
 
 # Nmap done at Fri Jan 17 21:20:55 2025 -- 1 IP address (1 host up) scanned in 22.69 seconds
+
