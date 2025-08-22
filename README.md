@@ -1,6 +1,6 @@
 # Cybesecurity Task 4
 
-This report documents the results of a comprehensive Nmap scan performed on the host 192.xxx.xx.xx (hidden for anonymity). The scan aimed to identify open TCP ports and their associated services for network reconnaissance and security analysis.
+This report documents the results of a comprehensive Nmap scan performed on the host 192.xxx.x.xx (hidden for anonymity). The scan aimed to identify open TCP ports and their associated services for network reconnaissance and security analysis.
 
 Task-4/
 
